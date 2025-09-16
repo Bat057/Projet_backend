@@ -151,8 +151,6 @@ exports.createRating = (req, res, next) => {
             error: error
           });
         }
-
-
       )
     })
 
